@@ -69,3 +69,19 @@
 - history
 - Newsletter
 
+# Features for BIC 
+- About
+  - Contact us
+  - History
+  - Track information (Circuits, Statistics, records, AR demo)
+  - Follow us
+  - Reach us (Google map integration)
+- Experiences
+  - Gallery
+  - Arrive and drive
+  - Other events/ services for general public and fans catered by BIC, for example, karting, driving center, etc.
+- Events: List of events with dates, ticket price and other details
+- Corporate
+  - Race hospitality
+  - Track hire
+  - Reseller network (merchandise) (if any)
