@@ -85,3 +85,37 @@
   - Race hospitality
   - Track hire
   - Reseller network (merchandise) (if any)
+  
+# Wireframe documentation (Tentative)
+## First page
+- Photo pan view with BIC displayed in some format with a car. (Leaving the implementation details to imagination at this moment)
+- continue button (gives a feeling of unwrapping)
+
+## Second page
+### First div
+A breif intro about BIC with the track in the background (implementation details omitted)
+### Second div
+Current Events 
+### Third div
+Services provided by BIC
+
+### Fourth div
+Logo of companies associated with BIC
+
+### Fifth div
+Bottom nav panel with whole site links along with corporate and about us
+
+## Third page 
+Track Details
+
+## Fourth page
+About us page
+
+## Fifth page
+Corporate
+
+## Sixth page
+Event details
+
+
+The number of pages is purely indicative and can change at the time of development and testing as the need be. This is just an indication of the direction in which we will proceed. Actual implementation might differ slightly from this wireframe documentation.
