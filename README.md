@@ -86,7 +86,7 @@
   - Track hire
   - Reseller network (merchandise) (if any)
   
-# Wireframe documentation (Tentative)
+# Wireframe guidelines (Tentative)
 ## First page
 - Photo pan view with BIC displayed in some format with a car. (Leaving the implementation details to imagination at this moment)
 - continue button (gives a feeling of unwrapping)
@@ -118,4 +118,4 @@ Corporate
 Event details
 
 
-The number of pages is purely indicative and can change at the time of development and testing as the need be. This is just an indication of the direction in which we will proceed. Actual implementation might differ slightly from this wireframe documentation.
+The number of pages is purely indicative and can change at the time of development and testing as the need be. This is just an indication of the direction in which we will proceed. Actual implementation might differ slightly from this wireframe guidelines.
