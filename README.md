@@ -69,7 +69,7 @@
 - history
 - Newsletter
 
-# Features for BIC 
+# Features for BIC (Tentative)
 - About
   - Contact us
   - History
