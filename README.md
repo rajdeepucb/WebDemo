@@ -104,6 +104,8 @@
   - Track hire
   - Reseller network (merchandise) (if any)
   - Payment Gateway Integeration for booking the Track
+- Search engine optimization
+- Menu
   
 # Wireframe guidelines (Tentative)
 ## First page
