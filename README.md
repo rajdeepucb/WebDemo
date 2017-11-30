@@ -103,6 +103,7 @@
   - Race hospitality
   - Track hire
   - Reseller network (merchandise) (if any)
+  - Payment Gateway Integeration for booking the Track
   
 # Wireframe guidelines (Tentative)
 ## First page
