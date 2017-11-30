@@ -54,4 +54,9 @@
   - Our venues
   - Reseller network (merchandise)
 - Karting
+  - Arrive and drive: Overview, price list, driver training
+    
 - About us
+  - History
+  - Location
+  - Contact us
