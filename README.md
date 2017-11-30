@@ -68,6 +68,24 @@
 - Gallery
 - history
 - Newsletter
+## Analysis of BIC (Current)
+- Home: This is basically a page containing links to all pages
+- Activities
+  -BIC tour: Youtube video with text
+  - Arrive and drive 
+  - Taxi rides
+- Circuit
+  - Track overview (pic of circuit with text about track)
+  - Circuit map (Map of the compound)
+  - Video Tour (Youtube video)
+  - How to reach
+  - Entering BIC (General Guidelines)
+- Gallery
+  - Photo
+  - Video
+- Media Center: Empty (nothing after 2012)
+- Contact us
+- Search: Google serach bar 
 
 # Features for BIC (Tentative)
 - About
